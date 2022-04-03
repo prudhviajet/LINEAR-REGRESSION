@@ -6,3 +6,4 @@
   <li>Find how many flowers of each type of species are present in the dataframe.</li>
   <li>Show how the length and width of the petals are distributed by means of a histogram.</li>
 </ol>
+<p>Now, we will use the data to apply regression techniques to predict certain attributes of the Iris flowers dataset.</p>
